@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DBMS and MySQL
 - 💞️ I’m looking to collaborate on oracle and other big data companies
 - 📫 How to reach me ...
-- Email Id: Khushiagarwal@gmail.com
+- Email Id: Khushiagarwal915@gmail.com
 - Linkedln Account: https://www.linkedin.com/in/khushi-agarwal-ab1609202/
 - For regular updates you can visit my practice programming websites:
 - Hackerrank: https://www.hackerrank.com/khushipreetiaga1
