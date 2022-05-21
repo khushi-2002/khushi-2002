@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khushi Agarwal
+- 👋 Hi, I’m Khushi
 - 👀 I’m interested in Backend mostly with Databases
 - 🌱 I’m currently learning DBMS and MySQL
 - 💞️ I’m looking to collaborate on oracle and other big data companies
