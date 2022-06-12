@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Khushi
 - 👀 I’m interested in Backend mostly with Databases
 - 🌱 I’m currently learning DBMS, MySQL, Redis
+- 👍 Love to work with Java
 - 💞️ I’m looking to collaborate on oracle and other database companies
 - 📫 How to reach me ...
 - Email Id: Khushiagarwal915@gmail.com
