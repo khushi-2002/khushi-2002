@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khushi
 - 👀 I’m interested in Backend mostly with Databases
-- 🌱 I’m currently learning DBMS, MySQL, Redis
+- 🌱 I’m currently learning DBMS, MySQL, Redis, Neo4j and web development
 - 👍 Love to work with Java
 - 💞️ I’m looking to collaborate on oracle and other database companies
 - 📫 How to reach me ...
