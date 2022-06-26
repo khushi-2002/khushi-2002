@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-&#270F; B. Tech. in Mechanical Engineering emphasis in Computer Science from Dayalbagh Educational University. <br>
+#270F; B. Tech. in Mechanical Engineering emphasis in Computer Science from Dayalbagh Educational University. <br>
 &#8620; Summer Intern at Aerial Delivery Research and Development Establishment (ADRDE), DRDO. <br>
 &#8620; Trainee at Microsoft Employee Programme.<br>
 &#8620; Holding Knowledge in Computer Science Subjects like  DBMS, OS and acquinted with Java, C++, MySQL, Neo4j. <br>
