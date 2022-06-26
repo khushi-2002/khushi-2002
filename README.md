@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <div align="center">
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
+
 </div>
