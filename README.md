@@ -17,5 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khushi-2002&theme=bear)](https://git.io/streak-stats)
+
+</div>
