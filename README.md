@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
  
-<hr style=" border-color: 2px solid blue;">
+<hr>
 
 <div align="center">
   
