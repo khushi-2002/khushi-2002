@@ -4,3 +4,13 @@ khushi-2002/khushi-2002 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=31B12D&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Hii!+%F0%9F%98%8A+I+am+Khushi+Agarwal%2C;+Programmer+and+Developer)](https://git.io/typing-svg)
+
+<br>
+
+&#8620; B. Tech. in Mechanical Engineering emphasis in Computer Science from Dayalbagh Educational University. <br>
+&#8620; Summer Intern at Aerial Delivery Research and Development Establishment (ADRDE), DRDO. <br>
+&#8620; Trainee at Microsoft Employee Programme<br>
+&#8620; Holding Knowledge in Computer Science Subjects like  DBMS, OS and I know Java, C++, MySQL, Neo4j <br>
+&#8620; Areas of Interest include Database Management Systems and Web Developement <br>
+&#8620; Determinent, Adaptive, hard-Worker, optimist Couragious, . <br>
+&#8620; I love to socalise with people. <br>
