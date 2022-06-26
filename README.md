@@ -48,3 +48,35 @@ You can click the Preview link to take a look at your changes.
 
 
 <hr>
+
+
+<div align="center">
+
+### Connect with me:-
+<a href="https://twitter.com/govind030303" target="_blank" rel="noopener noreferrer">
+  <img align="middle" width="50px" src="https://th.bing.com/th/id/OIP.WlVEYN86Ndj4KZiGf4zvCAHaHa?pid=ImgDet&rs=1" >
+</a>
+
+<a href="https://discordapp.com/users/754926015838552174" target="_blank" rel="noopener noreferrer">
+  <img align="middle" width="50px" src="https://th.bing.com/th/id/OIP.b_odCUAXTW3u0sdpV6craQHaHM?pid=ImgDet&w=1059&h=1029&rs=1">
+</a>
+
+<a href="https://www.linkedin.com/in/govind03/" target="_blank" rel="noopener noreferrer">
+  <img align="middle" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png">
+</a>
+
+<a href="https://tryhackme.com/p/PH03N1X03" target="_blank" rel="noopener noreferrer">
+  <img align="middle" width="50px" src="https://assets.tryhackme.com/img/favicon.png">
+</a>
+<br>
+</div>
+
+<br>
+ 
+<div align='center'>
+
+### Visitors Count 
+
+  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
+</div>
+
