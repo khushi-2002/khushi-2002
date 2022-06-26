@@ -18,6 +18,11 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khushi-2002&theme=bear)](https://git.io/streak-stats)
+  
+  <br>
+  
+  [![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-2002)](https://github.com/khushi-2002/github-readme-stats)
 
 </div>
