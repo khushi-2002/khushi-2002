@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khushi-2002&theme=bear)](https://git.io/streak-stats)
   
-  <br>
+ <br>
+  
+  <hr>
   
  ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-2002&show_icons=true&theme=tokyonight)
 
