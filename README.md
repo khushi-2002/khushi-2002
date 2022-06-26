@@ -12,5 +12,10 @@ You can click the Preview link to take a look at your changes.
 &#8620; Trainee at Microsoft Employee Programme<br>
 &#8620; Holding Knowledge in Computer Science Subjects like  DBMS, OS and acquinted with Java, C++, MySQL, Neo4j. <br>
 &#8620; Areas of Interest include Database Management Systems, Software Development and Web Developement. <br>
-&#8620; Determinent, Adaptive, hard-Worker, optimist, Couragious with decent and pleasant personality. . <br>
+&#8620; Determinent, Adaptive, hard-Worker, optimist, Couragious with decent and pleasant personality. <br>
 &#8620; I also love to socalise with people. <br>
+
+<hr>
+<div align="center">
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/754926015838552174.png">
+</div>
