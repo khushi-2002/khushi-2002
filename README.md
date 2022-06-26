@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
  
-<hr>
+<hr style="2px solid blue;">
 
 <div align="center">
   
