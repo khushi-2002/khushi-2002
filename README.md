@@ -67,10 +67,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
  
-<div align='center'>
-
-### Visitors Count 
-
-  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
-</div>
 
