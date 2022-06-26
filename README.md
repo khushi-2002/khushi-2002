@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
   
   <br>
   
-  [![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-2002)](https://github.com/khushi-2002/github-readme-stats)
+ ![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-2002&show_icons=true&theme=tokyonight)
 
 </div>
