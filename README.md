@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 &#8620; B. Tech. in Mechanical Engineering emphasis in Computer Science from Dayalbagh Educational University. <br>
-&#8620; Frontend Developer intern at I2E cooperation. <br>
 &#8620; Holding Knowledge in Computer Science Subjects like  DBMS, OS, CN, SDE and acquinted with C++, Java, PHP, MySQL, Neo4j. <br>
 &#8620; Areas of Interest include Database Management Systems, Software Development and Web Developement. <br>
 &#8620; Determinent, Adaptive, Hard-Worker, Optimist, Couragious with decent and pleasant personality. <br>
