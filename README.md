@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 &#8620; Determinent, Adaptive, Hard-Worker, Optimist, Couragious with decent and pleasant personality. <br>
 &#8620; I also love to socalise with people. <br>
 &#8620; How can i forget singing, my hobbie!. <br>
-<p>More Details? <a href="https://khushi-2002.github.io/Web-development-Practice/Portfolio/">Click here</a></p>
+
 
 
  
